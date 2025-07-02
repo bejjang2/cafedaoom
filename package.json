@@ -9,7 +9,7 @@
     "preview": "vite preview",
     "serve": "serve -s dist -l 3000",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist --repo https://github.com/bejjang2/cafedaoom.git"
   },
   "dependencies": {
     "lucide-react": "^0.263.1",
