@@ -10,19 +10,25 @@
     "serve": "serve -s dist -l 3000"
   },
   "dependencies": {
+    "lucide-react": "^0.263.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "styled-components": "^6.0.0",
-    "lucide-react": "^0.263.1"
+    "styled-components": "^6.0.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.0",
     "@types/react-dom": "^18.2.0",
     "@vitejs/plugin-react": "^4.0.0",
-    "vite": "^4.4.0",
-    "serve": "^14.2.0"
+    "serve": "^14.2.0",
+    "vite": "^7.0.0"
   },
-  "keywords": ["coffee", "recipe", "mobile", "voice-recognition", "korean"],
+  "keywords": [
+    "coffee",
+    "recipe",
+    "mobile",
+    "voice-recognition",
+    "korean"
+  ],
   "author": "Coffee Recipe Book",
   "license": "MIT"
 }
